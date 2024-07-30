@@ -1,6 +1,6 @@
-# dicromo-chat-app
+# AI CHAT GEMINI
 
-Demo: https://ai-chat-g.web.app
+Demo: https://ai-chat-gemini.web.app
 
 ## Recommended IDE Setup
 
