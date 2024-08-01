@@ -1,5 +1,7 @@
 # AI CHAT GEMINI
 
+Gemini AI Chat developed with Gemini, Firebase, Vue.js, Typescript, Tailwind and Vitest.
+
 Demo: https://ai-chat-gemini.web.app
 
 ## Recommended IDE Setup
